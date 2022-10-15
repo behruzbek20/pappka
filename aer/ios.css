@@ -1,0 +1,120 @@
+div{
+    border: 3px solid black;
+
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 600px;
+}
+.d{
+    width: 200px;
+    height: 30px;
+    border-radius: 9px 9px 0px 0px;
+    margin-top: -303px;
+    background-color: aqua;
+    border: none;
+    margin-left: 603px;
+}
+.s{
+    width: 180px;
+    height: 1px;
+    border: 3px solid black ;
+    background-color: black;
+    margin-left: 620px;
+    
+}
+.h1{
+    margin-top: 40px;
+    width: 20px;
+    height: 30px;
+}
+.w2{
+    width: 140px;
+    height: 1px;
+    border: 3px solid gray;
+    background-color: gray;
+    margin-left: 640px;
+    margin-top: 9px;
+
+
+}
+.l1{
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    margin-left: 760px;
+    margin-top: 190px;
+    background-color:rgb(47, 255, 47);
+    border-style: solid;
+    
+}
+p{
+    width: 60px;
+    height: 70px;
+    color: rgb(255, 255, 255);
+    margin-top: -50px;
+ 
+    font-size: 40px;   margin-left: 765px;
+}
+.w3{
+    width: 140px;
+    height: 1px;
+    border: 3px solid gray;
+    background-color: gray;
+    margin-left: 640px;
+    margin-top: -260px;
+    
+}
+.w4{
+    width: 130px;
+    height: 1px;
+    border: 3px solid gray;
+    background-color: gray;
+    margin-left: 640px;
+    margin-top: -10px;
+    
+}
+.w7{
+    width: 130px;
+    height: 1px;
+    border: 3px solid gray;
+    background-color: gray;
+    margin-left: 640px;
+    margin-top: 30px;
+    position: absolute;
+    
+}
+.w5{
+    width: 110px;
+    height: 1px;
+    border: 3px solid gray;
+    background-color: gray;
+    margin-left: 640px;
+    margin-top: 32px;
+    position: absolute;
+    
+}
+.w9{
+    width: 140px;
+    height: 1px;
+    border: 3px solid gray;
+    background-color: gray;
+    margin-left: 640px;
+    margin-top: 62px;
+    position: absolute;
+    
+}
+.w0{
+    width: 120px;
+    height: 1px;
+    border: 3px solid gray;
+    background-color: gray;
+    margin-left: 640px;
+    margin-top: 62px;
+    position: absolute;
+    
+}
+
+
+
+
